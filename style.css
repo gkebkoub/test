@@ -1,0 +1,30 @@
+body{
+	font-family: Calibri, arial;
+	font-size: 1.5em;
+	margin-top: 120px;
+}
+
+.navbar {
+margin-bottom: 0px;
+}
+section {
+    padding-top:50px;
+}
+#footer-sec {
+    background-color:#000;
+    color:#808080;
+}
+    #footer-sec h4 {
+        text-transform:uppercase;
+        color:#fff;
+    }
+.total{
+    font-family: Calibri, Arial;
+    font-size: 1.5em;
+    
+}
+.total span{
+	font-weight: bold;
+}
+
+   
